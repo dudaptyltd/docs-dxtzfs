@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-751hbe.solev.io/sitemap.xml
